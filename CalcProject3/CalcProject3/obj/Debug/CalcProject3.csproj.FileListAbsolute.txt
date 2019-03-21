@@ -1,0 +1,4 @@
+D:\Sample Project\CalcProject3\CalcProject3\bin\Debug\CalcProject3.dll
+D:\Sample Project\CalcProject3\CalcProject3\bin\Debug\CalcProject3.pdb
+D:\Sample Project\CalcProject3\CalcProject3\obj\Debug\CalcProject3.dll
+D:\Sample Project\CalcProject3\CalcProject3\obj\Debug\CalcProject3.pdb
