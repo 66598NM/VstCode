@@ -16,5 +16,9 @@
     
     public partial class UIMap
     {
+		public void main(string args[])
+		{
+			Console.writeline("Sample");
+		}
     }
 }
